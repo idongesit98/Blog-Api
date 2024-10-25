@@ -24,7 +24,7 @@ To clone the project you need the following below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hamza-140/blogging-platform-api.git
+   git clone https://github.com/idongesit98/Blog-Api.git
    cd blogging-platform-api
    ```
 
