@@ -25,7 +25,7 @@ To clone the project you need the following below:
 
    ```bash
    git clone https://github.com/idongesit98/Blog-Api.git
-   cd blogging-platform-api
+   cd into your blog Api Folder
    ```
 
 2. Install dependencies:
